@@ -1,4 +1,5 @@
 ## demo app - developing with Docker
+Cloned from the repo "https://gitlab.com/nanuchi/techworld-js-docker-demo-app.git"
 
 This demo app shows a simple user profile app set up using 
 - index.html with pure js and css styles
